@@ -1,13 +1,9 @@
-# Sketchware-File-Manager
-This you can to import in sketchware pro you please open GitHub website and "write ;import" in sketchware to release your file manager update
+# Sketchware File Manager
 
-# GitHub Warning
+Este repositório contém um **File Manager para Sketchware**, completo com **switches true/false** para ativar/desativar funcionalidades, pronto para ser importado e usado.
 
-You don't write semicolon, sketchware pro don't release to you make semicolon in import
+---
 
-# Credits
+## 📥 Como importar no Sketchware
 
-- Created by theosntn
-- Developed by theosntn
-- Sketchware permission allowed by theosntn
-- Sketchware import by theosntn
+Use o seguinte comando de import no **Sketchware Pro**:
