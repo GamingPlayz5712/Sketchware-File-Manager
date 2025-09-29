@@ -1,0 +1,5 @@
+if (switchMostrarOcultos.isChecked()) {
+    // código para mostrar arquivos ocultos
+} else {
+    // código para não mostrar
+}
