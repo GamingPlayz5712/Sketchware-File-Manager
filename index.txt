@@ -1,0 +1,24 @@
+// Make widget asset
+
+;import.android.widget.TextView
+;import.android.widget.TextView
+;import.android.widget.ImageView
+;finish.import
+
+;create.image.ImageView-/storage/emulated
+  /0/your-folder/index.png
+
+  ;create-text-TextView-label:Your Label
+
+// Make true - false
+
+;if:true()
+
+  create.text.TextView.label:Your Label
+
+;if:false()
+
+create.text.TextView.label:
+
+  
+
